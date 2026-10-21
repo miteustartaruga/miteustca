@@ -1,0 +1,2 @@
+git config --global user.name "mit"
+git config --global user.email "20261cas0020033@estudantes.ifpr.edu.br"
